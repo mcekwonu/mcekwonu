@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Michael Ekwonu
-- 👀 I’m interested in Deep learning applications in fluid dynamics, Flow visualization and 4D PTV using shake-the-box of impinging waterjet..
+- 👋 Hi, I’m Michael C. Ekwonu
+- 👀 I’m interested in Deep learning applications in fluid dynamics, Flow visualization with 4D-PTV using shake-the-box, BOS, 3D-PIV, LIF and schlieren.
 - 🌱 I hold a PhD in Mechanical Engineering
-- 💞️ I’m looking for postdoctoral position and collaborators on 4D Flow visualization with data assimilation
+- 💞️ I’m looking for postdoctoral position and collaborators on Flow visualization with data assimilation, Scientific machine learning of Biolfuid/Fluid dynamics. 
 - 📫 How to reach me mcekwonu2@gmail.com; deepstarai@gmail.com
 
 <!---
